@@ -4,7 +4,7 @@ A Firefox Add-on to improve and beautify the [Library of Congress's
 EAD documentation](http://www.loc.gov/ead/tglib/elements/author.html).
 
 Based on [my Chrome Extension that does the same thing](https://github.com/nodanaonlyzuul/loc-ead-beautifier).
- s
+
 #### Current Features
 
 * Auto-link to documentation for tags mentioned in "May contain:" and "May occur within:" sections
