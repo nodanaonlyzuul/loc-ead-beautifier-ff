@@ -3,7 +3,6 @@
   "title": "LOC EAD Beautifier",
   "id": "jid1-tKoDjmPhqksLTA",
   "description": "Beautify and modernize the LoC's EAD Guide",
-  "author": "",
-  "license": "MPL 2.0",
+  "author": "beholdthepanda",
   "version": "0.0.4"
 }
