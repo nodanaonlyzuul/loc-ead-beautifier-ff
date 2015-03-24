@@ -20,4 +20,4 @@ Based on [my Chrome Extension that does the same thing](https://github.com/nodan
 
 #### Sunsetting Features
 
-* If loc.gov gets hip and implements some of a feature. It will be removed from this extension.
+* If loc.gov gets hip and implements some of a feature. It will be removed from this Add-on.
